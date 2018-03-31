@@ -1,11 +1,16 @@
-fosforo
-ferro
-cólcio
-sbdio
-potossio
-niacind
-ócldo fólco
-ribof taving
-↑10min!
-itomnVIomino A
-licopeno
+Nome do Estabelecimento
+Endereço, 101 - Bairro
+São Paulo-SP CEP 13.001-000
+CNPJ: 11.222.333/0001-44
+IE: 000.000.000.000
+M: 0.000.000-0
+01/01/2012 22:00:00 CCF: 000000 COO: 112233
+CUPOM FISCAL
+ITEM CODIGO DESCRIÇÃO
+QTD. UN. VL. UNIT (RS) ST
+VL·ITEM (RS)
+001 1011121 NOME DO PRODUTO
+001,000UN X
+12,00 F1 A 2,00
+TOTAL
+RS 12,00
