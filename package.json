@@ -1,0 +1,11 @@
+{
+  "name": "gcVision",
+  "version": "1.0.0",
+  "description": "teste de processamento de imagens com o google cloud vision",
+  "main": "index.js",
+  "author": "Leandro Leite <leandro@leandroleite.info>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/vision": "^0.18.0"
+  }
+}
